@@ -15,7 +15,7 @@
 <h2 align="center">
 I'm a Frontent Web Developer 💻!
 </h2> 
-Working on several group projects and can work in teams.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Working on several group projects and can work in teams.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Compassionate and able to learn new technologies quickly. 
 
 <br/>
 <br/>
