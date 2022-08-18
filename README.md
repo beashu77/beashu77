@@ -1,15 +1,4 @@
 
-
-
-
- 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
-
-
 <p align="center">
 <!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a> -->
   <a href="https://im.ge/i/OqBQOp"><img  src="https://i.im.ge/2022/08/18/OqBQOp.WhatsApp-Image-2022-08-18-at-11-33-40-AM.md.jpg" alt="WhatsApp Image 2022-08-18 at 11.33.40 AM" ></a>
@@ -45,6 +34,10 @@ Working on several group projects and can work in teams.I love the entire proces
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 ## 🔭 I'm currently working on
 
@@ -55,8 +48,8 @@ Working on several group projects and can work in teams.I love the entire proces
 
 ## 🌱 I'm currently learning
 
-- TypeScript
-- React-Redux
+- React
+- Redux
 - Cypress Testing
 - Styled Components  
 
