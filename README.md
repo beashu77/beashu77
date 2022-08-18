@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -16,8 +16,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beashu77&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beashu77&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
+
+<!-- ### :woman_technologist: About Me :
+ -->
+
+
+
+
+
+
+<!-- <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ -->
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> -->
+
+<a href="https://im.ge/i/Oqngdq"><img src="https://i.im.ge/2022/08/18/Oqngdq.WhatsApp-Image-2022-08-17-at-11-41-56-PM.jpg" alt="images" border="0"></a>
 
 
 <p align="center">
