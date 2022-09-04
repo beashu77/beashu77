@@ -9,7 +9,7 @@
 <h3 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-, I'm <a href="https://ashwini-bhoskar-2wdru4v0c-beashu77.vercel.app/" target="_blank" rel="noreferrer">Ashwini Bhoskar</a> 
+, I'm <a href="https://ashwini-bhoskar.vercel.app/" target="_blank" rel="noreferrer">Ashwini Bhoskar</a> 
 </h3>
 
 <h2 align="center">
