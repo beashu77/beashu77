@@ -24,12 +24,12 @@ Working on several group projects and can work in teams.I love the entire proces
 
 
 ## 🤝 Connect with me:
-
-
+<a href="mailto:connect.ashwinibhoskar5111@gmail.com"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="ashwini bhoskar | Email" width="21px"/></a>
 
 <a href="https://www.linkedin.com/in/ashwini-bhoskar-12b3b7220/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="ashwini bhoskar | LinkedIn" width="21px"/></a>
 <a href="https://ashwinibhoskar.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="ashwini bhoskar | Medium" width="21px"/></a>
-<a href="https://twitter.com/ashwini_bhoskar "><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.8t2ydpWT5lXHLfQqPNk6ugHaGB&pid=Api&P=0" alt="ashwini bhoskar | Medium" width="21px"/></a>
+<a href="https://twitter.com/ashwini_bhoskar "><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.8t2ydpWT5lXHLfQqPNk6ugHaGB&pid=Api&P=0" alt="ashwini bhoskar | twitter" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
