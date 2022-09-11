@@ -1,7 +1,7 @@
 
 <p align="center">
 <!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a> -->
- <img  src="https://resumespice.com/wp-content/uploads/2021/03/4.png" alt="Image" width="100%" height="220" >
+ <img  src="https://gust-production.s3.amazonaws.com/uploads/investor_group/panoramic_image/63871/linkedin-background-ki.png" alt="Image" width="100%" height="220" >
 </p>
 
 
@@ -13,7 +13,7 @@
 </h3>
 
 <h2 align="center">
-I'm a Frontent Web Developer 💻!
+I'm a Frontend Web Developer 💻!
 </h2> 
 Working on several group projects and can work in teams.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Compassionate and able to learn new technologies quickly. 
 
