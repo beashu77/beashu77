@@ -101,9 +101,15 @@ Working on several group projects and can work in teams.I love the entire proces
 </br>
 
 ## 📝 Latest Blog 
+   [The Growing Creatives](https://medium.com/@ashwinibhoskar5111/the-growing-creatives-54b457d9d5a2)
+     </br>
+   [Naukri Clone Group project](https://medium.com/@ashwinibhoskar5111/group-task-at-masai-school-naukri-clone-83bc091901f4)
 
- [The Growing Creatives](https://medium.com/@ashwinibhoskar5111/the-growing-creatives-54b457d9d5a2)
- [Naukri Clone Group project](https://medium.com/@ashwinibhoskar5111/group-task-at-masai-school-naukri-clone-83bc091901f4)
+ 
+
+
+
+
 
 </br>
 
