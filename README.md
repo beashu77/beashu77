@@ -1,14 +1,16 @@
 
-<p align="center">
-<!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a> -->
+<!-- <p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
  <img  src="https://gust-production.s3.amazonaws.com/uploads/investor_group/panoramic_image/63871/linkedin-background-ki.png" alt="Image" width="100%" height="220" >
 </p>
+ -->
 
-
-
+![git background with name](https://user-images.githubusercontent.com/101581634/189515739-2783caad-ee0c-4a04-a0d4-99dfb1ba8144.png)
 <h3 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
+
 , I'm <a href="https://ashwini-bhoskar.vercel.app/" target="_blank" rel="noreferrer">Ashwini Bhoskar</a> 
 </h3>
 
