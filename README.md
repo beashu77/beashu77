@@ -1,9 +1,4 @@
 
-<!-- <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
- <img  src="https://gust-production.s3.amazonaws.com/uploads/investor_group/panoramic_image/63871/linkedin-background-ki.png" alt="Image" width="100%" height="220" >
-</p>
- -->
 
 ![git background with name](https://user-images.githubusercontent.com/101581634/209545553-e8b437a8-039f-4feb-9f86-b3ab049df516.png)
 
@@ -125,7 +120,7 @@ Working on several group projects and can work in teams.I love the entire proces
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beashu77)](https://github.com/beashu77)
+[![Ashwini's github stats](https://github-readme-stats.vercel.app/api?username=beashu77)](https://github.com/beashu77)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beashu77&layout=compact)](https://github.com/beashu77)
 
