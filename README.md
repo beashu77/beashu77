@@ -127,4 +127,4 @@ Working on several group projects and can work in teams. I love the entire proce
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beashu77&layout=compact)](https://github.com/beashu77)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=beashu77.beashu77)](https://www.yushi.dev/)
+![Visitor Count](https://profile-counter.glitch.me/{beashu77}/count.svg)
