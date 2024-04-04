@@ -64,6 +64,8 @@ Working on several group projects and can work in teams. I love the entire proce
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Cypress-informational?style=flat&logo=Cypress&color=1572C6)
+![](https://img.shields.io/badge/Code-Jest-informational?style=flat&logo=Jest&color=00C7B7)
 
 </br>
 
