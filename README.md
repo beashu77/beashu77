@@ -18,8 +18,9 @@
 <h2 align="center">
 I'm a Frontend Web Developer 💻!
 </h2> 
-Experienced professional with one year at Masai School, adept at translating design into code using JavaScript and ReactJS. Skilled in collaborative teamwork on various projects. Quick learner with a compassionate approach to learning new technologies.
-Working on several group projects and can work in teams.I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Compassionate and able to learn new technologies quickly. 
+Experienced Frontend web developer with one year at Masai School, adept at translating design into code using JavaScript and ReactJS. Skilled in collaborative teamwork on various projects. Quick learner with a compassionate approach to learning new technologies.
+<br/>
+Working on several group projects and can work in teams. I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Compassionate and able to learn new technologies quickly. 
 
 <br/>
 <br/>
