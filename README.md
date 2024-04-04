@@ -16,7 +16,7 @@
 </h3>
 
 <h2 align="center">
-I'm a Frontend Web Developer 💻!
+Frontend Web Developer 💻!
 </h2> 
 Experienced Frontend web developer with one year at Masai School, adept at translating design into code using JavaScript and ReactJS. Skilled in collaborative teamwork on various projects. Quick learner with a compassionate approach to learning new technologies.
 <br/>
