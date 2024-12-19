@@ -35,7 +35,7 @@ Working on several group projects and can work in teams. I love the entire proce
 
 - 🌍  I'm based in India
 - 💬  Ask me about Javascript,HTML,CSS,React,Redux
-- ✉️  You can contact me ashwinibhoskar5111@gmail.com
+<!-- - ✉️  You can contact me ashwinibhoskar5111@gmail.com -->
 
 
 <br/>
