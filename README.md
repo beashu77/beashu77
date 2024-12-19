@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
 
-, I'm <a href="https://ashwini-bhoskar.vercel.app/" target="_blank" rel="noreferrer">Ashwini Bhoskar</a> 
+, I'm Ashwini Bhoskar
 </h3>
 
 <h2 align="center">
@@ -110,10 +110,7 @@ Working on several group projects and can work in teams. I love the entire proce
 
 </br>
 
-## 📝 Latest Blog 
-   [The Growing Creatives](https://medium.com/@ashwinibhoskar5111/the-growing-creatives-54b457d9d5a2)
-     </br>
-   [Naukri Clone Group project](https://medium.com/@ashwinibhoskar5111/group-task-at-masai-school-naukri-clone-83bc091901f4)
+
 
  
 
