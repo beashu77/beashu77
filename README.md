@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
 
-, I'm Ashwini 
+, I'm Ashwini Bhoskar
 </h3>
 
 <h2 align="center">
@@ -25,17 +25,20 @@ Working on several group projects and can work in teams. I love the entire proce
 <br/>
 <br/>
 
-
-<!-- ## 🤝 Connect with me:
- <a href="mailto:connect.ashwinibhoskar5111@gmail.com"><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.0kcEw5qofArBqRzSIfKs5gHaFj&pid=Api&P=0" alt="ashwini bhoskar | Email" width="30px"/></a>
- <a href="https://www.linkedin.com/in/ashwini-bhoskar-12b3b7220/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="ashwini bhoskar | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@ashwinibhoskar5111"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="ashwini bhoskar | Medium" width="21px"/></a>
-<a href="https://twitter.com/ashwini_bhoskar "><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.8t2ydpWT5lXHLfQqPNk6ugHaGB&pid=Api&P=0" alt="ashwini bhoskar | twitter" width="21px"/></a> -->
-
-
 - 🌍  I'm based in India
-- 💬  Ask me about Javascript,HTML,CSS,React,Redux
-<!-- - ✉️  You can contact me ashwinibhoskar5111@gmail.com -->
+- 💬  Ask me about Javascript, HTML, CSS, React, Redux
+<!-- - ✉️  You can contact me at ashwinibhoskar5111@gmail.com -->
+
+
+ ## 🤝 Connect with me:
+ <a href="mailto:connect.ashwinibhoskar5111@gmail.com"><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.0kcEw5qofArBqRzSIfKs5gHaFj&pid=Api&P=0" alt="Ashwini bhoskar | Email" width="30px" height="30px"/></a>
+  <a href="https://www.linkedin.com/in/ashwini-bhoskar-12b3b7220/"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXnaOOsl9Io3oPd-t0vETJ-ZXfFF8yz5HnQ&s" alt="" width="30px" height="30px"/></a>
+<!-- <a href="https://medium.com/@ashwinibhoskar5111"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="ashwini bhoskar | Medium" width="21px"/></a> -->
+<a href="https://twitter.com/ashwini_bhoskar "><img align="left" src="https://tse3.mm.bing.net/th?id=OIP.8t2ydpWT5lXHLfQqPNk6ugHaGB&pid=Api&P=0" alt="ashwini bhoskar | twitter" width="30px" height="30px"/></a> 
+
+
+
+<br/>
 
 
 <br/>
